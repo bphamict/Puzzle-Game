@@ -1,0 +1,12 @@
+path | C:\Users\dell\Downloads\minhnghi.jpg
+time | 5/18/2019 12:00:17 AM
+number of moves | 11
+0,0
+0,1
+0,2
+1,0
+1,1
+2,2
+2,0
+2,1
+1,2

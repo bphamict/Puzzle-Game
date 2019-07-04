@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\Puzzle Game\Puzzle Game\bin\Debug\Puzzle Game.exe.config
+C:\Users\dell\source\repos\Puzzle Game\Puzzle Game\bin\Debug\Puzzle Game.exe
+C:\Users\dell\source\repos\Puzzle Game\Puzzle Game\bin\Debug\Puzzle Game.pdb
+C:\Users\dell\source\repos\Puzzle Game\Puzzle Game\obj\Debug\MainWindow.g.cs
+C:\Users\dell\source\repos\Puzzle Game\Puzzle Game\obj\Debug\App.g.cs
+C:\Users\dell\source\repos\Puzzle Game\Puzzle Game\obj\Debug\Puzzle Game_MarkupCompile.cache
+C:\Users\dell\source\repos\Puzzle Game\Puzzle Game\obj\Debug\Puzzle Game_MarkupCompile.lref
+C:\Users\dell\source\repos\Puzzle Game\Puzzle Game\obj\Debug\MainWindow.baml
+C:\Users\dell\source\repos\Puzzle Game\Puzzle Game\obj\Debug\Puzzle Game.g.resources
+C:\Users\dell\source\repos\Puzzle Game\Puzzle Game\obj\Debug\Puzzle_Game.Properties.Resources.resources
+C:\Users\dell\source\repos\Puzzle Game\Puzzle Game\obj\Debug\Puzzle Game.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Puzzle Game\Puzzle Game\obj\Debug\Puzzle Game.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Puzzle Game\Puzzle Game\obj\Debug\Puzzle Game.exe
+C:\Users\dell\source\repos\Puzzle Game\Puzzle Game\obj\Debug\Puzzle Game.pdb
+C:\Users\dell\source\repos\Puzzle Game\Puzzle Game\obj\Debug\Puzzle Game.csprojAssemblyReference.cache
